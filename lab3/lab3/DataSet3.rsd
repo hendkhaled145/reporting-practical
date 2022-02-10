@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedDataSet xmlns="http://schemas.microsoft.com/sqlserver/reporting/2010/01/shareddatasetdefinition">
+  <DataSet Name="DataSet3">
+    <Query>
+      <DataSourceReference>DataSource3</DataSourceReference>
+      <CommandType>StoredProcedure</CommandType>
+      <CommandText>ssdt6</CommandText>
+    </Query>
+  </DataSet>
+</SharedDataSet>
